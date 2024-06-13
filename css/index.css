@@ -1,0 +1,219 @@
+body{
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+#title{
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  background-position: center;
+}
+.india{
+float: left;
+}
+.aggresive-man{
+  height:500px;
+  margin-top: 230px;
+}
+.headline{
+  color: orange;
+  font-size: 50px;
+}
+.container-fluid{
+padding: 0;
+}
+.navbar{
+border-radius: 5%;
+  background-color: #242835;
+  padding: 0.7% 5%;
+
+}
+.logo{
+  border-radius: 50%;
+  margin-right: 20px;
+}
+.navbar-brand{
+  font-family: "ubuntu";
+  color: orange;
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+.nav-item{
+  padding: 0 6px;
+
+}
+.nav-link{
+  font-size: 1.5rem;
+
+  font-family: Montserrat-light;
+    color: orange;
+}
+.temp{
+  height: 700px;
+}
+#consistency{
+  padding: 2% 4%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: orange;
+}
+.consistency-text{
+  font-size: 25px;
+  line-height: 2.5rem;
+  font-weight: 300;
+  text-align: justify;
+}
+.consistency-click {
+  background-color: orange;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+}
+.moving{
+  width: 100%;
+  background-color: black;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+}
+.list-text{
+  display: inline;
+}
+.pricings{
+  justify-content: center;
+  padding: 25px;
+}
+.count{
+  color: orange;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.state{
+  padding-right: 100px;
+  padding-left: 50px;
+}
+.place{
+  color: orange;
+  font-size: 1.2rem;
+}
+.pricing-option{
+  font-size: 1.5rem;
+}
+.pricing-headline{
+  font-size: 3rem;
+  line-height: 2;
+  color: orange;
+  font-weight: bold;
+}
+.nearme {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #0b0d0f;
+  margin: 50px 30px;
+    border: solid orange 2px;
+  padding: 5px 120px 6px 120px;
+  text-decoration: none;
+}
+
+.nearme:hover {
+  background: #e07d0b;
+  text-decoration: none;
+}
+.india-side{
+  display: grid;
+  text-align: center;
+  justify-content:  center;
+  padding: 45px;
+}
+.below-text{
+  color: orange;
+  font-size: 1.5rem;
+line-height: 3;
+  }
+.pricing-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.pricing-column{
+  padding: 3% 2% ;
+
+}
+#india-map{
+  padding: 35px;
+}
+#pricing{
+  background-color: #181818;
+}
+#details{
+  background-color: #ffffff;
+  padding: 20px;
+}
+.points{
+  padding-top: 25px;
+}
+.down-logo{
+  height: 350px;
+  width: 400px;
+  margin-right: 25px;
+}
+.footer{
+  margin-top:100px;
+}
+.footer-icon{
+  padding: 25px 10px;
+}
+.contact-inputs{
+  padding: 10px;
+  border-radius: 10px;
+  width:75%;
+  margin: 5px;
+}
+.contact-home{
+  background-color:  #242835;
+  color: orange;
+  padding: 2% 5%
+}
+.contact-heading{
+  text-align: center;
+  font-size: 60px;
+  padding: 0 10px 20px 10px;
+}
+.contact-text{
+  text-align: justify;
+  font-size: 18px;
+  padding-top: 2%;
+  padding-right: 2%;
+  line-height: 2rem;
+}
+.about-title{
+  text-align: center;
+  padding-top:5%;
+    font-size: 60px;
+    line-height: 2.5rem;
+    font-weight: 500;
+    margin: 3% 0;
+}
+#about{
+  text-align: justify;
+  padding: 0 2%;
+
+  color: orange;
+  background-color:  #242835;
+  margin: 1% 20%;
+    font-size: 25px;
+    line-height: 2.5rem;
+    font-weight: 300;
+}

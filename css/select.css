@@ -1,0 +1,42 @@
+.navtext{
+  display: inline;
+}
+.upper-line{
+  padding: 1% 2%;
+}
+.register{
+  float: right;
+}
+.active{
+  float: right;
+}
+#home{
+  padding: 0 9%;
+}
+.house{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+padding: 30px 0;
+border-top: 1px solid ;
+}
+.house-img{
+  flex-basis: 40%;
+
+}
+.house-info{
+  flex-basis: 58%;
+}
+.house-img img{
+  width: 100%;
+  border-radius: 12px;
+}
+.stars{
+  color: green;
+  font-size: 18px;
+  margin: 10px 2px;
+}
+.facilities{
+  display: inline;
+  margin: 2px 8px;
+}
