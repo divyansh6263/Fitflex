@@ -126,6 +126,7 @@ border-radius: 5%;
     border: solid orange 2px;
   padding: 5px 120px 6px 120px;
   text-decoration: none;
+  width:100%;
 }
 
 .nearme:hover {
